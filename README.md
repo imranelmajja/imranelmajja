@@ -29,6 +29,25 @@ Hi, I'm Mona. You might recognize me as GitHub's mascot.
 
 <!-- TO DO: add more details about me later -->
 
+# ¡Hola! Soy Laura
+
+Soy estudiante de **FP Superior DAM** y me gusta la programación orientada a objetos.
+
+## Tecnologías
+- Java
+- Python
+
+- HTML, CSS y JavaScript
+
+## Actualmente estoy aprendiendo
+- Git y GitHub
+- Desarrollo web moderno
+- SQL y bases de datos
+
+## Contacto
+[LinkedIn](https://linkedin.com)
+
+
 <!--
 **imranelmajja/imranelmajja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
